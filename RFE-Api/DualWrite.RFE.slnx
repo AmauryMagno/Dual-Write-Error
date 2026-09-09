@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DualWrite.RFE.Api/DualWrite.RFE.Api.csproj" />
+  <Project Path="DualWrite.RFE.Application/DualWrite.RFE.Application.csproj" />
+  <Project Path="DualWrite.RFE.Database/DualWrite.RFE.Database.csproj" />
+  <Project Path="DualWrite.RFE.Domain/DualWrite.RFE.Domain.csproj" />
+</Solution>
